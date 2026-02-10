@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Bookmark Manager Vue",
+  "description": "A sophisticated, glassmorphic bookmark management application with folders, tags, and multi-view support.",
+  "requestFramePermissions": []
+}
